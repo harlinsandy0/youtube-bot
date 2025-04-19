@@ -1,4 +1,4 @@
-# 🚀 YT Growth Engine™
+# 🚀 YT Growth Engine™ - YouTube Bot
 
 **The professional solution for YouTube channel analytics and audience development**
 
